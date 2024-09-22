@@ -1,24 +1,19 @@
 # propertyofcyka
 # My Project Title
 
-This is a brief description of what my project is about. 
-
-## Features
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-## Getting Started
-
 Un site fait par moi, pour toi
+Pour comprendre pourquoi tu répondais pas
 
-POURQUOI Tu rep pas
-Hypothéses
--Tu lui parles
--Tu veux pas me répondre
--Tu m'aimes plus
-Morale de l'histoire: anis basl w khasah qtla dleasa
+## Hypothèses
+
+- Tu lui parlais (ah hadik khtna)
+- Tu le faisais expres de ne pas répondre (yarbi drk krchk si c'est cette réponse)
+- Tu m'aimes plus (impossible)
+
+## Morale de l'histoire
+
+
+ anis basl w khasah qtla dleasa
 
 
 
